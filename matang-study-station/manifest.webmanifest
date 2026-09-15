@@ -1,0 +1,13 @@
+{
+  "name": "麻糖的学习站",
+  "short_name": "麻糖学习站",
+  "description": "麻糖的学习、运动与奖励工作台",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07152a",
+  "theme_color": "#07152a",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
